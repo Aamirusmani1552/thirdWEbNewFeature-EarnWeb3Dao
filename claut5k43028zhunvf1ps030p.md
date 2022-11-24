@@ -127,7 +127,7 @@ result we get look something like this 👇
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669275192949/ov3f6Jmu6.png align="left")
 
-What! we have our project's front 🤯.
+What! we have our project's frontend🤯.
 
 You can connect to your wallet and see all of the NFT's that are listed on the NFT Marketplace.
 
@@ -167,7 +167,7 @@ Things that require changes:
 - Nothing, it's already amazing.
 
 
-There might be things that some of you don't like but, I think everything is as perfect as it should be. The thing that I can do almost anything without leaving the website forced me to do love it.
+There might be things that some of you don't like but, I think everything is as perfect as it should be. The thing that I can do almost anything without leaving the website forced me to love it.
 
 ### This is the End!
 
