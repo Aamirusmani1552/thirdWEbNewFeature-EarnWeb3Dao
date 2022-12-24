@@ -36,13 +36,13 @@ You should have [NodeJS](https://nodejs.org/en/download/) v14 or greater.
 
 You should have a basic understanding of the following:
 
-*   Javascript
+* Javascript
     
-*   [SQL](https://www.w3schools.com/sql/)
+* [SQL](https://www.w3schools.com/sql/)
     
-*   [GraphQL](https://graphql.org/learn/)
+* [GraphQL](https://graphql.org/learn/)
     
-*   Nodejs
+* Nodejs
     
 
 At least you must have an understanding of Javascript to understand it better.
@@ -433,8 +433,15 @@ For the error when the wrong name is passed:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671541407172/ycexb8oyk.PNG align="center")
 
-We just need to deploy it and you are ready to go.  
-If you want to access my telegram bot type this username in search bar @ENS\_RESOLVER\_BOT
+### Bot Video link
+
+If you go to this link 👇 on github, you will also find the video showing the working of the bot
+
+[Telegram bot video](https://github.com/Aamirusmani1552/ZETTABLOCK_TELEGRAM_BOT)
+
+Just scroll down a bit you will find the video and code too.
+
+We just need to deploy it and you are ready to go.
 
 ## Conclusion
 
